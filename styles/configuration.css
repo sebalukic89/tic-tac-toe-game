@@ -74,7 +74,7 @@
   color: rgb(47, 4, 82);
 }
 
-@media (max-width: 390px) {
+@media (max-width: 412px) {
   #game-configuration ol {
     display: flex;
     flex-direction: column;
